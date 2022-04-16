@@ -17,6 +17,6 @@ Now open your new `.eslintrc.js` in your favorite text-editor and type in
 
     module.exports = {
         "extends": [
-            "./node_modules/@thehatworks/codequality/eslint-config.js"
+            "@thehatworks/codequality"
         ]
     };
