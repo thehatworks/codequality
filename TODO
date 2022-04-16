@@ -1,0 +1,10 @@
+TODO eslint-config-react-app & react?
+TODO extends eslint:reccomended ?
+TODO Make import structure work like arbnb - so users can just npm install @mikeutil/eslint-config, and then extend mikeutil from eslintrc..
+TODO Unit test said import API
+TODO FIX IMPORTS SO eslint-react can extend "./eslint-web.json" without breaking react-script build..
+TODO review https://github.com/airbnb/javascript (currently at 8.6)
+TODO Find some nice standard configs, perhaps airbnb?
+TODO (can eslint auto-generate coding style guidelines from a rules file? :O:O)
+TODO Switch warns to errors or give them up?
+IDEA remix specific?

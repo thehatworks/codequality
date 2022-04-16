@@ -1,0 +1,38 @@
+{
+  "name": "@thehatworks/codequality",
+  "version": "1.0.0",
+  "description": "package which contains my desired eslint/prettier/etc. setup",
+  "main": "eslint-global.js",
+  "scripts": {
+    "test": "eslint --cache --cache-location ./node_modules/.cache/eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thehatworks/thehatworks.codequality.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thehatworks/thehatworks.codequality/issues"
+  },
+  "keywords": [
+    "eslint",
+    "prettier",
+    "config",
+    "@thehatworks",
+    "node.js",
+    "browser",
+    "mocha",
+    "react",
+    "eslint",
+    "eslintrc",
+    "javascript",
+    "typescript",
+    "codequality",
+    "standards"
+  ],
+  "author": "Mike Haimes <mike@thehatworks.com> (https://open-source.thehatworks.com/)",
+  "license": "LGPL-3.0-or-later",
+  "homepage": "https://github.com/thehatworks/thehatworks.codequality#readme",
+  "devDependencies": {
+    "eslint": "^8.13.0"
+  }
+}
