@@ -1,6 +1,8 @@
+TODO Make import structure work like arbnb - so users can just npm install @mikeutil/eslint-config, and then extend mikeutil from eslintrc..
+     as in, right now ugh: "./node_modules/@thehatworks/codequality/index.js"
+TODO code plucking auto-add? other ppl might like a cli for that..
 TODO eslint-config-react-app & react?
 TODO extends eslint:reccomended ?
-TODO Make import structure work like arbnb - so users can just npm install @mikeutil/eslint-config, and then extend mikeutil from eslintrc..
 TODO Unit test said import API
 TODO FIX IMPORTS SO eslint-react can extend "./eslint-web.json" without breaking react-script build..
 TODO review https://github.com/airbnb/javascript (currently at 8.6)
