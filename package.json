@@ -6,6 +6,14 @@
   "scripts": {
     "test": "eslint --cache --cache-location ./node_modules/.cache/eslint ."
   },
+  "files": [
+    ".eslintrc.js",
+    "AUTHORS",
+    "index.js",
+    "LICENSE.md",
+    "package.json",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thehatworks/thehatworks.codequality.git"
