@@ -2,7 +2,7 @@
   "name": "@thehatworks/codequality",
   "version": "1.0.0",
   "description": "package which contains my desired eslint/prettier/etc. setup",
-  "main": "eslint-global.js",
+  "main": "index.js",
   "scripts": {
     "test": "eslint --cache --cache-location ./node_modules/.cache/eslint ."
   },
@@ -12,7 +12,8 @@
     "index.js",
     "LICENSE.md",
     "package.json",
-    "README.md"
+    "README.md",
+    "typescript/tsconfig.json"
   ],
   "repository": {
     "type": "git",

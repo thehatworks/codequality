@@ -1,0 +1,9 @@
+{
+    "$schema": "https://json.schemastore.org/tsconfig",
+    "compilerOptions": {
+        "strict": true,
+        "noImplicitAny": true,
+        "isolatedModules": true,
+        "forceConsistentCasingInFileNames": true
+    }
+}
