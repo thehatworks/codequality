@@ -1,6 +1,6 @@
 {
   "name": "@thehatworks/codequality",
-  "version": "1.0.0",
+  "version": "0.3.9",
   "description": "package which contains my desired eslint/prettier/etc. setup",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "files": [
     ".eslintrc.js",
     "AUTHORS",
-    "index.js",
+    "eslint/index.js",
     "LICENSE.md",
     "package.json",
     "README.md",
@@ -17,10 +17,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thehatworks/thehatworks.codequality.git"
+    "url": "git+https://github.com/thehatworks/codequality.git"
   },
   "bugs": {
-    "url": "https://github.com/thehatworks/thehatworks.codequality/issues"
+    "url": "https://github.com/thehatworks/codequality/issues"
   },
   "keywords": [
     "eslint",
@@ -33,6 +33,8 @@
     "react",
     "eslint",
     "eslintrc",
+    "tsconfig",
+    "tsconfig.json",
     "javascript",
     "typescript",
     "codequality",
@@ -40,7 +42,7 @@
   ],
   "author": "Mike Haimes <mike@thehatworks.com> (https://open-source.thehatworks.com/)",
   "license": "LGPL-3.0-or-later",
-  "homepage": "https://github.com/thehatworks/thehatworks.codequality#readme",
+  "homepage": "https://github.com/thehatworks/codequality#readme",
   "devDependencies": {
     "eslint": "^8.13.0"
   }

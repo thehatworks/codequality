@@ -10,3 +10,4 @@ TODO Find some nice standard configs, perhaps airbnb?
 TODO (can eslint auto-generate coding style guidelines from a rules file? :O:O)
 TODO Switch warns to errors or give them up?
 IDEA remix specific?
+TODO any way to "validate" tsconfig.json? I guess add some includes and excludes? that seems wrong here.

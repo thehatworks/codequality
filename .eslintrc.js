@@ -1,5 +1,5 @@
 module.exports = {
     extends: [
-        "./index.js"
+        "./eslint/index.js"
     ]
 };

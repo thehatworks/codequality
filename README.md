@@ -17,6 +17,14 @@ Now open your new `.eslintrc.js` in your favorite text-editor and type in
 
     module.exports = {
         "extends": [
-            "./node_modules/@thehatworks/codequality/index.js",
+            "./node_modules/@thehatworks/codequality/eslint/index.js",
         ]
     };
+
+Now you can happily use
+
+    $ eslint
+    $ eslint --fix
+    $ eslint --cache ...
+
+and friends
