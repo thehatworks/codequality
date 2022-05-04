@@ -75,7 +75,7 @@ module.exports = {
       }
     ],
     "semi": ["error", "always"],
-    "no-trailing-spaces": "error",
+    "no-trailing-spaces": "warn",
     "max-len": [
       "warn",
       {
