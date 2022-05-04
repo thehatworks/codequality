@@ -4,6 +4,8 @@
         "strict": true,
         "noImplicitAny": true,
         "isolatedModules": true,
-        "forceConsistentCasingInFileNames": true
+        "forceConsistentCasingInFileNames": true,
+        "allowJs": true,
+        "checkJs": true
     }
 }
