@@ -51,9 +51,9 @@ module.exports = {
       }
     ],
     "prefer-arrow-callback": "error",
-    "arrow-spacing": "error",
-    "arrow-parens": ["error", "as-needed"],
-    "arrow-body-style": ["error", "as-needed"],
+    "arrow-spacing": "warn",
+    "arrow-parens": ["warn", "as-needed"],
+    "arrow-body-style": ["warn", "as-needed"],
     "no-confusing-arrow": [
       "error",
       {
